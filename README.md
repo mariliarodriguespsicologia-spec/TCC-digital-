@@ -1,5 +1,5 @@
 # TCC-digital-
-APP de registo de técnicas TCC para terapeutas e psicologos.
+APP para aplicar técnicas TCC para terapeutas e psicologos.
 <!DOCTYPE html>
 <html lang="pt">
 <head>
