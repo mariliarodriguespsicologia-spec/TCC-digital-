@@ -1,2 +1,2 @@
 # TCC-digital-
-APP de registo para terapeutas Cognitivo-comportamental
+APP de registo de técnicas TCC para terapeutas e psicologos.
