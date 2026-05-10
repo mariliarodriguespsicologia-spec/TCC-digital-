@@ -63,7 +63,7 @@ APP para aplicar técnicas TCC para terapeutas e psicologos.
 
     <section id="tab-rpd" class="tab-content active">
         <div class="card">
-            <h2>Registro de Pensamentos (RPD)</h2>
+            <h2>Registo de Pensamentos (RPD)</h2>
             <label>Situação:</label>
             <textarea id="sit" placeholder="Ex: Enviei um email e não obtive resposta imediata."></textarea>
             
